@@ -1,3 +1,4 @@
+#pip install mysql-connector-python
 # import mysql.connector as sql
 # from random import randint
 
